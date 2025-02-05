@@ -1,0 +1,64 @@
+body {
+    background-color: antiquewhite;
+}
+.calculator {
+    width: 250px;
+    margin: 50px auto;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-image: url("photos/RainbowCode.jpg");
+    background-size: 300px 450px;
+}
+
+#display {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    background: tan;
+}
+
+.buttons button {
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 20%;
+    height: 40px;
+    margin: 1%;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.edits {
+    display: flex;
+    justify-content: end;
+    margin-right: 4%;
+}
+
+#clear {
+    background-color: rgb(134, 28, 28);
+}
+
+#backspace {
+    background-color: rgb(102, 102, 136);
+}
+
+.operator, .equals{
+    background-color: darkslategray;
+}
+
+.number {
+    background-color: grey;
+}
+
+.buttons button:hover {
+    transform: scale(1.5rem);
+    transition: ease-in-out 0.5s;
+    background-color: darkgoldenrod;
+    box-shadow: 3px 4px 5px rgb(215, 215, 44);
+}
