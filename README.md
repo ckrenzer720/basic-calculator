@@ -9,5 +9,5 @@ This is a basic calculator web application created as part of my full-stack deve
 - Instant calculation updates
 - Clear button to reset inputs
 
-## 🛠️ Technologies Used
+## 🛠️ Frameworks Used
 - **Frontend:** HTML, CSS, JavaScript  
