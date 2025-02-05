@@ -1,7 +1,6 @@
 # Simple Calculator Web App
 
-## 📌 Overview
-This is a basic calculator web application created as part of my full-stack development learning journey. The app allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+It's a calculator.
 
 ## 🎯 Features
 - Perform basic arithmetic operations (+, -, *, /)
